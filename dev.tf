@@ -1,0 +1,3 @@
+azurerm provider{
+    feture
+}
